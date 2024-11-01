@@ -1,0 +1,1505 @@
+.twss_6310_team_style_11 {
+	text-align: center;
+	cursor: pointer;
+	float: left;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	z-index: 1
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_11:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_11:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_11_img_border {
+	position: relative;
+	padding: 10px 0 10px 20px
+}
+
+.twss_6310_team_style_11_img_border:before {
+	content: "";
+	width: 40px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: #011627
+}
+
+.twss_6310_team_style_11_img {
+	position: relative;
+	overflow: hidden
+}
+
+.twss_6310_team_style_11_img:after {
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, .4);
+	position: absolute;
+	top: 0;
+	left: 0;
+	opacity: 0;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_11:hover .twss_6310_team_style_11_img:after {
+	opacity: 1
+}
+
+.twss_6310_team_style_11_img img {
+	width: 100%;
+	height: auto;
+	float: left;
+	z-index: 1
+}
+
+ul.twss_6310_team_style_11_social {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	width: 100%;
+	position: absolute;
+	bottom: -30%;
+	left: 0;
+	text-align: center;
+	z-index: 0;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_11:hover ul.twss_6310_team_style_11_social {
+	bottom: 15%
+}
+
+.twss_6310_team_style_11:hover .twss_6310_skills_label_ {
+	color: #fff!important
+}
+
+ul.twss_6310_team_style_11_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+ul.twss_6310_team_style_11_social li:last-child {
+	margin-right: 0
+}
+
+ul.twss_6310_team_style_11_social li a {
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	transition: all .5s ease
+}
+
+.twss_6310_team_style_11_caption {
+	padding: 30px 15px 15px;
+	background: #2ec4b6;
+	color: #011627;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	z-index: 1;
+	transition: all .5s ease 0s;
+  width: 100%;
+}
+
+.twss_6310_team_style_11_caption:before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: -100%;
+	background: #011627;
+	z-index: -1;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_11:hover .twss_6310_team_style_11_caption:before {
+	left: 0
+}
+
+.twss_6310_team_style_11_title {
+	font-size: 20px;
+	font-weight: 800;
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_11:hover .twss_6310_team_style_11_title {
+	color: #2ec4b6
+}
+
+.twss_6310_team_style_11_designation {
+	display: block;
+	font-size: 13px;
+	font-weight: 700;
+	color: #e71d36;
+	text-transform: uppercase;
+}
+
+.twss_6310_team_style_11:hover .twss_6310_team_style_11_caption,
+.twss_6310_team_style_11:hover .twss_6310_team_style_11_designation {
+	color: #fdfffc
+}
+
+.twss_6310_team_style_11_description {
+	font-size: 14px;
+	line-height: 22px;
+	color: #252525
+}
+
+.twss_6310_team_style_11:hover .twss_6310_team_style_11_description {
+	color: #fdfffc
+}
+
+.twss_6310_team_style_12 {
+	display: inline-block;
+	overflow: hidden;
+	display: block;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background: #fff;
+	padding-bottom: 15px
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_12:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_12:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_12 img {
+	width: 100%;
+	height: auto;
+	float: left
+}
+
+.twss_6310_team_style_12_img {
+	position: relative;
+	text-align: center;
+	float: left;
+	width: 100%
+}
+
+.twss_6310_team_style_12_team_social_icon {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	opacity: 0;
+	background: #000;
+	transition: .6s;
+	-webkit-transition: all .5s ease 0s;
+	-moz-transition: all .5s ease 0s;
+	-ms-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_12:hover .twss_6310_team_style_12_team_social_icon {
+	opacity: 1
+}
+
+ul.twss_6310_team_style_12_social {
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	float: left;
+	width: 100%
+}
+
+ul.twss_6310_team_style_12_social li {
+	display: inline-block;
+	margin-right: 8px;
+	margin-bottom: 0;
+}
+
+ul.twss_6310_team_style_12_social li:last-child {
+	margin-right: 0
+}
+
+ul.twss_6310_team_style_12_social li a {
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	color: #aaa;
+	margin: 0;
+	-webkit-transition: all .5s ease 0s;
+	-moz-transition: all .5s ease 0s;
+	-ms-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s
+}
+
+ul.twss_6310_team_style_12_social li a:hover {
+	background: #fff;
+	color: #d4434d
+}
+
+.twss_6310_team_style_12_title {
+	color: #272727;
+	font-size: 16px;
+	line-height: 30px;
+	text-align: center;
+	margin-top: 15px;
+	float: left;
+	width: 100%
+}
+
+.twss_6310_team_style_12_designation {
+	color: #272727;
+	font-size: 14px;
+	line-height: 20px;
+	text-align: center;
+	z-index: 1;
+	float: left;
+	width: 100%
+}
+
+.twss_6310_team_style_12_description :before {
+	content: "\00A0";
+	width: 40px;
+	height: 3px;
+	margin: 0 auto 15px;
+	display: block;
+	background-color: #000;
+	opacity: .5
+}
+
+.twss_6310_team_style_12_caption {
+	float: left;
+	width: 100%;
+	padding: 0 15px
+}
+
+.twss_6310_team_style_12_description {
+	width: 100%;
+	height: auto;
+	float: left;
+	padding: 0;
+	margin: 10px 0 0
+}
+
+ul.twss_6310_team_style_12_contact {
+	padding: 0;
+	margin: 10px 0 0;
+	display: block;
+	float: left;
+	width: 100%
+}
+
+ul.twss_6310_team_style_12_contact li {
+	padding: 0;
+	margin: 0 0 5px;
+	width: 100%;
+	line-height: 24px;
+	font-size: 14px;
+	border-bottom: 1px solid #afafaf
+}
+
+ul.twss_6310_team_style_12_contact li i {
+	line-height: 22px;
+	font-size: 16px;
+	color: #376e37;
+	margin-right: 3px
+}
+
+.twss_6310_team_style_13 {
+	border-left: 8px solid #3b336a;
+	border-bottom: 8px solid #3b336a;
+	text-align: center;
+	cursor: pointer;
+	float: left;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	background-color: #FFF;
+}
+
+.twss_6310_team_style_13_img {
+	position: relative;
+	text-align: center;
+	float: left;
+	width: 100%;
+	margin-bottom: 15px
+}
+
+.twss_6310_team_style_13 img {
+	width: 100%;
+	height: auto;
+	float: left
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_13:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_13:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_13_description {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	font-size: 14px;
+	color: #fff;
+	line-height: 30px;
+	padding: 0;
+	opacity: 0;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	background-color: rgba(59, 51, 106, .6);
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_13:hover .twss_6310_team_style_13_description {
+	opacity: 1
+}
+
+ul.twss_6310_team_style_13_social {
+	list-style: none;
+	top: -13px;
+	left: 0;
+	height: 100%;
+	position: absolute;
+	padding: 5px 10px 5px 2px;
+	background: #3b336a;
+	text-align: center;
+	transform: translate(25px, 0) rotateY(90deg);
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_13:hover ul.twss_6310_team_style_13_social {
+	transform: translate(0, 0) rotateY(0)
+}
+
+ul.twss_6310_team_style_13_social li {
+	display: block;
+	margin: 15px 0
+}
+
+ul.twss_6310_team_style_13_social li a {
+	display: block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_13_caption {
+	padding: 15px;
+	width: 100%;
+}
+
+.twss_6310_team_style_13_title {
+	font-size: 18px;
+	color: #3b336a;
+	margin: 0 0 5px 0;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_13_designation {
+	display: block;
+	font-size: 14px;
+	color: #3b336a;
+	text-transform: capitalize
+}
+
+.twss_6310_team_style_13 .twss_6310_team_style_13_designation:hover,
+.twss_6310_team_style_13 .twss_6310_team_style_13_title:hover {
+	color: #bc3fbf
+}
+
+.twss_6310_team_style_14 {
+	border-left: 8px solid #3b336a;
+	border-bottom: 8px solid #3b336a;
+	text-align: center;
+	cursor: pointer;
+	float: left;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+	background-color: #FFF;
+}
+
+.twss_6310_team_style_14_img {
+	position: relative;
+	text-align: center;
+	float: left;
+	width: 100%;
+	margin-bottom: 15px
+}
+
+.twss_6310_team_style_14 img {
+	width: 100%;
+	height: auto;
+	float: left
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_14:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_14:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_14_description {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	font-size: 14px;
+	color: #fff;
+	line-height: 30px;
+	padding: 0;
+	opacity: 0;
+	margin: 0;
+	overflow: hidden;
+	position: absolute;
+	background-color: rgba(59, 51, 106, .6);
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_14:hover .twss_6310_team_style_14_description {
+	opacity: 1
+}
+
+ul.twss_6310_team_style_14_social {
+	list-style: none;
+	top: -13px;
+	height: 100%;
+	position: absolute;
+	padding: 0 10px 0 2px;
+	background: #3b336a;
+	text-align: center;
+	transform: translate(25px, 0) rotateY(90deg);
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_14:hover ul.twss_6310_team_style_14_social {
+	transform: translate(0, 0) rotateY(0)
+}
+
+ul.twss_6310_team_style_14_social li {
+	display: block;
+	margin: 15px 0
+}
+
+ul.twss_6310_team_style_14_social li a {
+	display: block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_14_caption {
+	padding: 20px
+}
+
+.twss_6310_team_style_14_title {
+	font-size: 18px;
+	color: #3b336a;
+	margin: 0 0 5px 0;
+	transition: all .5s ease 0s
+}
+
+.twss_6310_team_style_14_designation {
+	display: block;
+	font-size: 14px;
+	color: #3b336a;
+	text-transform: capitalize
+}
+
+.twss_6310_team_style_14 .twss_6310_team_style_14_designation:hover,
+.twss_6310_team_style_14 .twss_6310_team_style_14_title:hover {
+	color: #bc3fbf
+}
+
+.twss_6310_team_style_15 {
+	margin: 20px 0;
+	border: 3px solid #e7e7e7;
+	padding: 20px 40px;
+	border-radius: 10px;
+	background: #007aff82;
+	text-align: center;
+	transition: all .5s;
+	position: relative;
+	z-index: 1;
+	overflow: hidden
+}
+
+.twss_6310_team_style_15:after {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	content: "";
+	background: #007aff82;
+	bottom: 100%;
+	left: 0;
+	transition: all .4s;
+	transform: translate(0, 0);
+	z-index: -1
+}
+
+.twss_6310_team_style_15:hover:after {
+	width: 100%;
+	height: 100%;
+	bottom: 0
+}
+
+.twss_6310_team_style_15:hover {
+	box-shadow: 0 0 20px rgba(0, 0, 0, .5);
+	border: 3px solid #007aff;
+	background: #007affb3
+}
+
+.twss_6310_team_style_15_details {
+	border-radius: 10px 10px 0 0;
+	text-transform: capitalize;
+	padding-bottom: 25px;
+	position: relative;
+	font-size: 14px;
+	color: #000;
+	line-height: 25px
+}
+
+.twss_6310_team_style_15_details i {
+	font-size: 40px;
+	color: #0d72e5
+}
+
+.twss_6310_team_style_15_caption {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative
+}
+
+.twss_6310_team_style_15_img img {
+	height: 50px;
+	width: 50px;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 3px solid #fff;
+	background: #fff
+}
+
+.twss_6310_team_style_15_content_group {
+	display: inline-block;
+	margin-left: 20px
+}
+
+.twss_6310_team_style_15_title {
+	text-transform: capitalize;
+	font-size: 22px;
+	color: #000
+}
+
+.twss_6310_team_style_15_designation {
+	color: #ccc;
+	font-size: 14px
+}
+
+.twss_6310_team_style_15:hover .twss_6310_team_style_15_caption:after {
+	background: #fff;
+	color: #0d72e5
+}
+
+.twss_6310_team_style_15:hover .twss_6310_team_style_15-star,
+.twss_6310_team_style_15:hover .twss_6310_team_style_15_designation,
+.twss_6310_team_style_15:hover .twss_6310_team_style_15_details,
+.twss_6310_team_style_15:hover .twss_6310_team_style_15_title {
+	color: #fff
+}
+
+ul.twss_6310_team_style_12_social {
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	float: left;
+	width: 100%
+}
+
+ul.twss_6310_team_style_15_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+ul.twss_6310_team_style_15_social li:last-child {
+	margin-right: 0
+}
+
+ul.twss_6310_team_style_15_social li a {
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	color: #aaa;
+	margin: 0;
+	-webkit-transition: all .5s ease 0s;
+	-moz-transition: all .5s ease 0s;
+	-ms-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s
+}
+
+ul.twss_6310_team_style_15_social li a:hover {
+	background: #fff;
+	color: #d4434d
+}
+
+.twss_6310_team_style_16 {
+	padding: 20px;
+	border-radius: 10px;
+	background: #ef0909;
+	transition: all .5s;
+	position: relative;
+	z-index: 1;
+	overflow: hidden;
+	transition: all .5s
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_16:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_16:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_16:after {
+	position: absolute;
+	content: "";
+	width: 100%;
+	height: 100%;
+	background: #fff;
+	top: 0;
+	left: 0;
+	border-radius: 50% 0 0 0;
+	z-index: -1;
+	transition: all .5s
+}
+
+.twss_6310_team_style_16:hover:after {
+	border-radius: 0 0 50% 0
+}
+
+.twss_6310_team_style_16-description {
+	border-radius: 10px 10px 0 0;
+	text-transform: capitalize;
+	padding-bottom: 25px;
+	position: relative;
+	font-size: 14px;
+	color: #000;
+	line-height: 25px;
+	position: relative;
+	z-index: 1
+}
+
+.twss_6310_team_style_16-description i {
+	color: #0d72e5;
+	position: absolute;
+	left: 0;
+	top: -10px;
+	z-index: -1;
+	font-size: 50px;
+	opacity: .3
+}
+
+.twss_6310_team_style_16-content {
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	position: relative;
+	margin-bottom: 50px
+}
+
+.twss_6310_team_style_16_img {
+	height: 77px;
+	width: 77px;
+	border-radius: 50%;
+	overflow: hidden;
+	border: 3px solid #fff;
+	background: #fff
+}
+
+ul.twss_6310_team_style_16_social {
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	float: left;
+	width: 100%
+}
+
+ul.twss_6310_team_style_16_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+ul.twss_6310_team_style_16_social li:last-child {
+	margin-right: 0
+}
+
+ul.twss_6310_team_style_16_social li a {
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	color: #aaa;
+	margin: 0;
+	-webkit-transition: all .5s ease 0s;
+	-moz-transition: all .5s ease 0s;
+	-ms-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s
+}
+
+ul.twss_6310_team_style_16_social li a:hover {
+	background: #fff;
+	color: #d4434d
+}
+
+.twss_6310_team_style_16-content-group {
+	display: inline-block;
+	margin-left: 20px
+}
+
+.twss_6310_team_style_16-content-member {
+	text-transform: capitalize;
+	font-size: 22px;
+	color: #000
+}
+
+.twss_6310_team_style_16-content-designation {
+	color: #ccc;
+	font-size: 14px
+}
+
+.twss_6310_team_style_17 {
+	position: relative;
+	background: #fff;
+	float: left;
+	width: 100%;
+	margin: 15px 0;
+	border-radius: 0 0 50px 0;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
+.twss_6310_team_style_17:hover {
+	background-color: #eee;
+	color: #279e00
+}
+
+.wavey-top-1,
+.wavey-top-2,
+.wavey-top-3 {
+	position: absolute;
+	top: 0;
+	width: 100%
+}
+
+.wavey-top-1 linearGradient stop:first-child,
+.wavey-top-2 linearGradient stop:first-child,
+.wavey-top-3 linearGradient stop:first-child {
+	stop-color: rgba(52, 62, 194, .67)
+}
+
+.wavey-top-1 linearGradient stop:last-child,
+.wavey-top-2 linearGradient stop:last-child,
+.wavey-top-3 linearGradient stop:last-child {
+	stop-color: rgba(0, 214, 61, .8);
+	stop-opacity: .1148
+}
+
+.twss_6310_team_style_17:hover .wavey-top-1 linearGradient stop:first-child,
+.twss_6310_team_style_17:hover .wavey-top-2 linearGradient stop:first-child,
+.twss_6310_team_style_17:hover .wavey-top-3 linearGradient stop:first-child {
+	stop-color: rgba(0, 214, 61, .8)
+}
+
+.twss_6310_team_style_17:hover .wavey-top-1 linearGradient stop:last-child,
+.twss_6310_team_style_17:hover .wavey-top-2 linearGradient stop:last-child,
+.twss_6310_team_style_17:hover .wavey-top-3 linearGradient stop:last-child {
+	stop-color: rgba(52, 62, 194, .67)
+}
+
+.twss_6310_team_style_17_top {
+	position: relative;
+	z-index: 9;
+	display: flex;
+	align-items: center;
+	padding: 40px
+}
+
+.twss_6310_team_style_17_img {
+	width: 75px;
+	height: 75px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+	border-radius: 50%;
+	border: 4px solid #fff;
+	z-index: 1;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, .2), 0 -4px 4px 0 rgba(0, 0, 0, .19)
+}
+
+.twss_6310_team_style_17 img {
+	width: 100%
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_17:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_17:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_17_title {
+	text-transform: capitalize;
+	font-size: 1.5rem;
+	font-weight: 700;
+	padding-left: 20px
+}
+
+.twss_6310_team_style_17_designation {
+	padding-left: 20px;
+	color: gray
+}
+
+.twss_6310_team_style_17:hover .twss_6310_team_style_17_designation {
+	color: #279e00
+}
+
+.twss_6310_team_style_17_details {
+	position: relative;
+	z-index: 9;
+	line-height: 1.5;
+	padding: 10px 10px 10px
+}
+
+ul.twss_6310_team_style_17_social {
+	padding: 0;
+	list-style: none;
+	text-align: center;
+	float: left;
+	width: 100%
+}
+
+ul.twss_6310_team_style_17_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+ul.twss_6310_team_style_17_social li:last-child {
+	margin-right: 0
+}
+
+ul.twss_6310_team_style_17_social li a {
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	color: #aaa;
+	margin: 0
+}
+
+ul.twss_6310_team_style_17_social li a:hover {
+	background: #fff;
+	color: #d4434d
+}
+
+.twss_6310_team_style_17:hover .twss_6310_team_style_17_caption ul.twss_6310_team_style_contact li i {
+	color: #fff
+}
+
+.twss_6310_team_style_17_details {
+	padding: 10px 10px 10px 0
+}
+
+.twss_6310_team_style_17_caption {
+	padding-left: 40px;
+	padding-right: 15px
+}
+
+.twss_6310_team_style_17,
+.twss_6310_team_style_17_caption,
+.twss_6310_team_style_17_designation,
+.twss_6310_team_style_17_details,
+.twss_6310_team_style_17_img,
+.twss_6310_team_style_17_title,
+ul.twss_6310_team_style_17_social,
+ul.twss_6310_team_style_17_social li,
+ul.twss_6310_team_style_17_social li a,
+ul.twss_6310_team_style_contact,
+ul.twss_6310_team_style_contact li,
+ul.twss_6310_team_style_contact li i {
+	-webkit-transition: all .2s ease 0s;
+	-moz-transition: all .2s ease 0s;
+	-ms-transition: all .2s ease 0s;
+	-o-transition: all .2s ease 0s;
+	transition: all .2s ease 0s
+}
+
+.twss_6310_team_style_18 {
+	text-align: center;
+	overflow: hidden;
+	cursor: pointer;
+	font-family: Shanti;
+	transition: all .6s ease 0s;
+	box-shadow: 6px 6px 6px 0 rgba(0, 0, 0, .2), 0 6px 20px 0 rgba(0, 0, 0, .19)
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_18:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_18:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(1) div.twss_6310_team_style_18 {
+	background: linear-gradient(to top, #fff 80%, #16a085 20%);
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(1) div.twss_6310_team_style_18:hover {
+	background: linear-gradient(to top, #16a085 80%, #fff 20%)
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(1) div:hover .twss_6310_team_style_18_designation,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(1) div:hover .twss_6310_team_style_18_details,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(1) div:hover .twss_6310_team_style_18_title {
+	background-color: #16a085;
+	color: #fff
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(2) div.twss_6310_team_style_18 {
+	background: linear-gradient(to top, #fff 80%, #2980b9 20%);
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(2) div.twss_6310_team_style_18:hover {
+	background: linear-gradient(to top, #2980b9 80%, #fff 20%)
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(2) div:hover .twss_6310_team_style_18_designation,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(2) div:hover .twss_6310_team_style_18_details,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(2) div:hover .twss_6310_team_style_18_title {
+	background-color: #2980b9;
+	color: #fff
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(3) div.twss_6310_team_style_18 {
+	background: linear-gradient(to top, #fff 80%, #f39c12 20%);
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(3) div.twss_6310_team_style_18:hover {
+	background: linear-gradient(to top, #f39c12 80%, #fff 20%)
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(3) div:hover .twss_6310_team_style_18_designation,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(3) div:hover .twss_6310_team_style_18_details,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(3) div:hover .twss_6310_team_style_18_title {
+	background-color: #f39c12;
+	color: #fff
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(4) div.twss_6310_team_style_18 {
+	background: linear-gradient(to top, #fff 80%, #4b2c50 20%);
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(4) div.twss_6310_team_style_18:hover {
+	background: linear-gradient(to top, #4b2c50 80%, #fff 20%)
+}
+
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(4) div:hover .twss_6310_team_style_18_designation,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(4) div:hover .twss_6310_team_style_18_details,
+.twss_6310_team_style_18_background div.twss-6310-col-4:nth-child(4) div:hover .twss_6310_team_style_18_title {
+	background-color: #4b2c50;
+	color: #fff
+}
+
+.twss_6310_team_style_18_img {
+	position: relative;
+	text-align: center;
+	float: left;
+	width: 100%
+}
+
+.twss_6310_team_style_18_img img {
+	margin-top: 20px;
+	border-radius: 50%;
+	width: calc(100% - 50px);
+	height: auto
+}
+
+.twss_6310_team_style_18_title {
+	width: 100%;
+	text-align: center;
+	width: 100%;
+	height: 45px;
+	line-height: 40px;
+	font-size: 20px;
+	background-color: #e4e8e9;
+	font-weight: 500;
+	text-transform: uppercase;
+	height: 45px;
+	z-index: 1;
+	color: #000;
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_designation {
+	overflow: hidden;
+	display: block;
+	width: 100%;
+	height: 45px;
+	line-height: 40px;
+	font-size: 20px;
+	bottom: 0;
+	color: #000;
+	font-weight: 400;
+	text-transform: capitalize;
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_caption {
+	position: relative;
+	float: left;
+	width: 100%;
+	transition: all .6s ease 0s
+}
+
+.twss_6310_team_style_18_caption ul.twss_6310_team_style_18_social {
+	list-style: none;
+	text-align: center;
+	position: relative
+}
+
+.twss_6310_team_style_18_caption ul.twss_6310_team_style_18_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+.twss_6310_team_style_18_caption .twss_6310_team_style_18_social li:last-child {
+	margin-right: 0
+}
+
+.twss_6310_team_style_18_caption .twss_6310_team_style_18_social li a {
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	display: block;
+	font-size: 15px
+}
+
+.twss_6310_team_style_18:hover .twss_6310_team_style_18_img img {
+	border-color: #f43662
+}
+
+.twss_6310_team_style_18_caption ul.twss_6310_team_style_contact li {
+	text-align: left
+}
+
+.twss_6310_team_style_18:hover .twss_6310_team_style_18_caption .twss_6310_member_skills_wrapper_,
+.twss_6310_team_style_18:hover .twss_6310_team_style_18_caption ul.twss_6310_team_style_contact li,
+.twss_6310_team_style_18:hover .twss_6310_team_style_18_caption ul.twss_6310_team_style_contact li i {
+	color: #fff
+}
+
+.twss_6310_team_style_18_details {
+	font-size: 15px;
+	text-align: justify;
+	padding: 9px 5px
+}
+
+.twss_6310_team_style_18,
+.twss_6310_team_style_18_caption,
+.twss_6310_team_style_18_designation,
+.twss_6310_team_style_18_details,
+.twss_6310_team_style_18_title {
+	-webkit-transition: all .6s ease 0s;
+	-moz-transition: all .6s ease 0s;
+	-ms-transition: all .6s ease 0s;
+	-o-transition: all .6s ease 0s;
+	transition: all .6s ease 0s
+}
+
+.twss_6310_member_skills_wrapper_,
+ul.twss_6310_team_style_contact {
+	width: 100%;
+	float: left!important;
+	text-align: left!important
+}
+
+.twss_6310_team_style_19 {
+	text-align: center;
+	overflow: hidden;
+	transition: all .3s ease 0s;
+	cursor: pointer;
+	line-height: 35px;
+	font-family: Shanti
+}
+
+.twss_6310_team_style_19_background div.twss-6310-col-4:nth-child(1) {
+	background: rgba(41, 128, 185, .8)
+}
+
+.twss_6310_team_style_19_background div.twss-6310-col-4:nth-child(2) {
+	background: rgba(22, 160, 133, .8)
+}
+
+.twss_6310_team_style_19_background div.twss-6310-col-4:nth-child(3) {
+	background: rgba(243, 156, 18, .8)
+}
+
+.twss_6310_team_style_19_background div.twss-6310-col-4:nth-child(4) {
+	background: #9bbb59
+}
+
+.twss_6310_team_style_19_img img {
+	margin-top: 20px;
+	border-radius: 50%;
+	transition: all .3s ease 0s;
+	width: calc(100% - 20px);
+	height: auto
+}
+
+.twss_6310_team_style_19_title {
+	position: relative;
+	color: #fff;
+	background-color: rgba(0, 0, 0, .3);
+	font-size: 18px;
+	line-height: 45px;
+	font-weight: 500;
+	text-transform: uppercase
+}
+
+.twss_6310_team_style_19_designation {
+	overflow: hidden;
+	display: block;
+	width: 80%;
+	transform: translate(10%, 0);
+	margin-top: -30px;
+	font-size: 20px;
+	line-height: 35px;
+	color: #fff;
+	font-weight: 700;
+	background-color: rgba(0, 0, 0, .3);
+	text-transform: capitalize;
+	opacity: 1;
+	transition: all .3s ease 0s
+}
+
+ul.twss_6310_team_style_19_social {
+	list-style: none;
+	padding: 0;
+	text-align: center;
+	position: relative
+}
+
+ul.twss_6310_team_style_19_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+.twss_6310_team_style_19_social li:last-child {
+	margin-right: 0
+}
+
+.twss_6310_team_style_19_social li a {
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	display: block;
+	font-size: 15px;
+	transition: all .3s ease 0s
+}
+
+.twss_6310_team_style_19:hover {
+	background: #37cfd7
+}
+
+.twss_6310_team_style_19:hover .twss_6310_team_style_19_img img {
+	border-color: #f43662
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_19:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_19:hover img.twss_front_image {
+	display: none
+}
+.twss_6310_team_style_19_caption {
+	padding: 0 15px;
+}
+.twss_6310_team_style_19_caption ul.twss_6310_team_style_contact li {
+	text-align: left
+}
+
+.twss_6310_team_style_19_caption .twss_6310_member_skills_wrapper_,
+.twss_6310_team_style_19_caption ul.twss_6310_team_style_contact li,
+.twss_6310_team_style_19_caption ul.twss_6310_team_style_contact li i {
+	color: #fff
+}
+
+.twss_6310_team_style_19:hover .twss_6310_team_style_19_caption .twss_6310_member_skills_wrapper_,
+.twss_6310_team_style_19:hover .twss_6310_team_style_19_caption ul.twss_6310_team_style_contact li,
+.twss_6310_team_style_19:hover .twss_6310_team_style_19_caption ul.twss_6310_team_style_contact li i {
+	color: #fff
+}
+
+.twss_6310_team_style_20 {
+	text-align: center;
+	overflow: hidden;
+	transition: all .3s ease 0s;
+	cursor: pointer;
+	font-family: Shanti;
+	background-color: #f1f1f1
+}
+
+.twss_6310_team_style_20_title {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	text-align: center;
+	margin-left: 15px;
+	font-size: 18px;
+	line-height: 45px;
+	font-weight: 500;
+	text-transform: uppercase;
+	height: 45px;
+	z-index: 1;
+	color: #000
+}
+
+#pointer:before {
+	content: "";
+	position: absolute;
+	right: -15px;
+	top: 45px;
+	width: 0;
+	height: 0
+}
+.twss_6310_team_style_20_caption{
+	padding: 0 15px;
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(1) div .twss_6310_team_style_20_caption,
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(1) div .twss_6310_team_style_20_title {
+	background: #16a085
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(1) div div+div#pointer:before {
+	border-left: 15px solid #16a085;
+	border-bottom: 15px solid transparent
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(2) div .twss_6310_team_style_20_caption,
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(2) div .twss_6310_team_style_20_title {
+	background: #9bbb59
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(2) div div+div#pointer:before {
+	border-left: 15px solid #9bbb59;
+	border-bottom: 15px solid transparent
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(3) div .twss_6310_team_style_20_caption,
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(3) div .twss_6310_team_style_20_title {
+	background: #f39c12
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(3) div div+div#pointer:before {
+	border-left: 15px solid #f39c12;
+	border-bottom: 15px solid transparent
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(4) div .twss_6310_team_style_20_caption,
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(4) div .twss_6310_team_style_20_title {
+	background: #c0392b
+}
+
+.twss_6310_team_style_20_background div.twss-6310-col-4:nth-child(4) div div+div#pointer:before {
+	border-left: 15px solid #c0392b;
+	border-bottom: 15px solid transparent
+}
+
+div.twss_6310_team_style_20:hover .twss_6310_team_style_20_title {
+	color: #fff
+}
+
+.twss_6310_team_style_20_img {
+	position: relative
+}
+
+.twss_6310_team_style_20_img img {
+	padding: 15px 0 0 0;
+	margin-bottom: -4px;
+	transition: all .3s ease 0s;
+	width: 100%;
+	height: auto
+}
+
+img.twss_hover_image {
+	display: none
+}
+
+.twss_6310_team_style_20:hover img.twss_hover_image {
+	display: initial
+}
+
+.twss_6310_team_style_20:hover img.twss_front_image {
+	display: none
+}
+
+.twss_6310_team_style_20_designation {
+	overflow: hidden;
+	display: block;
+	position: absolute;
+	width: 100%;
+	height: 45px;
+	line-height: 40px;
+	font-size: 20px;
+	background-color: rgba(0, 0, 0, .3);
+	bottom: 0;
+	color: #fff;
+	font-weight: 700;
+	text-transform: capitalize;
+	transition: all .3s ease 0s
+}
+
+.twss_6310_team_style_20_caption {
+	position: relative;
+	float: left;
+	width: 100%
+}
+
+.twss_6310_team_style_20_caption ul.twss_6310_team_style_20_social {
+	list-style: none;
+	text-align: center;
+	position: relative
+}
+
+.twss_6310_team_style_20_caption ul.twss_6310_team_style_20_social li {
+	display: inline-block;
+	margin-right: 8px
+}
+
+.twss_6310_team_style_20_caption .twss_6310_team_style_20_social li:last-child {
+	margin-right: 0
+}
+
+.twss_6310_team_style_20_caption .twss_6310_team_style_20_social li a {
+	width: 36px;
+	height: 36px;
+	line-height: 36px;
+	display: block;
+	font-size: 15px;
+	transition: all .3s ease 0s
+}
+
+.twss_6310_team_style_20_details {
+	font-size: 15px;
+	text-align: justify;
+	padding: 9px 5px
+}
+
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_caption {
+	background: #37cfd7
+}
+
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_img img {
+	border-color: #f43662
+}
+
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_details {
+	color: #fff
+}
+
+.twss_6310_team_style_20_caption ul.twss_6310_team_style_contact li {
+	text-align: left
+}
+
+.twss_6310_team_style_20_caption .twss_6310_member_skills_wrapper_,
+.twss_6310_team_style_20_caption ul.twss_6310_team_style_contact li,
+.twss_6310_team_style_20_caption ul.twss_6310_team_style_contact li i {
+	color: #fff
+}
+
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_caption .twss_6310_member_skills_wrapper_,
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_caption ul.twss_6310_team_style_contact li,
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_caption ul.twss_6310_team_style_contact li i {
+	color: #fff
+}
+
+.twss_6310_team_style_20,
+.twss_6310_team_style_20_caption,
+.twss_6310_team_style_20_designation,
+.twss_6310_team_style_20_details,
+.twss_6310_team_style_20_title {
+	-webkit-transition: all .5s ease 0s;
+	-moz-transition: all .5s ease 0s;
+	-ms-transition: all .5s ease 0s;
+	-o-transition: all .5s ease 0s;
+	transition: all .5s ease 0s
+}

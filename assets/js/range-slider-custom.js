@@ -1,0 +1,1 @@
+!function(){var e=document.querySelectorAll("[data-rangeSlider]");Array.prototype.slice.call(document.querySelectorAll('input[type="range"]')).forEach(function(e){e.addEventListener("input",function(e){var t,n;t=e.target,n=t.value,t.parentNode.getElementsByTagName("output")[0].innerHTML=n},!1)}),rangeSlider.create(e,{onInit:function(){}})}();

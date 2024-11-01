@@ -1,0 +1,297 @@
+.twss-custom-fields-01,
+.twss-custom-fields-02,
+.twss-custom-fields-03,
+.twss-custom-fields-04,
+.twss-custom-fields-05,
+.twss-custom-fields-06,
+.twss-custom-fields-07,
+.twss-custom-fields-08,
+.twss-custom-fields-09,
+.twss-custom-fields-10,
+.twss-custom-fields-11,
+.twss-custom-fields-12,
+.twss-custom-fields-13,
+.twss-custom-fields-14,
+.twss-custom-fields-15,
+.twss-custom-fields-16,
+.twss-custom-fields-17,
+.twss-custom-fields-18,
+.twss-custom-fields-19,
+.twss-custom-fields-20,
+.twss-custom-fields-21,
+.twss-custom-fields-22,
+.twss-custom-fields-24,
+.twss-custom-fields-25,
+.twss-custom-fields-28,
+.twss-custom-fields-29,
+.twss-custom-fields-30,
+.twss-custom-fields-31-preview {
+  float: left;
+  width: 100%;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  /* display: block; */
+}
+.twss-custom-fields-list-01,
+.twss-custom-fields-list-02,
+.twss-custom-fields-list-03,
+.twss-custom-fields-list-04,
+.twss-custom-fields-list-05,
+.twss-custom-fields-list-06,
+.twss-custom-fields-list-07,
+.twss-custom-fields-list-08,
+.twss-custom-fields-list-09,
+.twss-custom-fields-list-10,
+.twss-custom-fields-list-11,
+.twss-custom-fields-list-12,
+.twss-custom-fields-list-13,
+.twss-custom-fields-list-14,
+.twss-custom-fields-list-15,
+.twss-custom-fields-list-16,
+.twss-custom-fields-list-17,
+.twss-custom-fields-list-18,
+.twss-custom-fields-list-19,
+.twss-custom-fields-list-20,
+.twss-custom-fields-list-21,
+.twss-custom-fields-list-22,
+.twss-custom-fields-list-24,
+.twss-custom-fields-list-25,
+.twss-custom-fields-list-28,
+.twss-custom-fields-list-29,
+.twss-custom-fields-list-30,
+.twss-custom-fields-list-31-preview {
+  font-size: 14px;
+  text-align: center;
+  font-family: 'Amaranth';
+  line-height: 20px;
+  min-height: 20px;
+  float: left;
+  width: 100%;
+  -moz-transition-duration: 0.4s;
+  -o-transition-duration: 0.4s;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  text-transform: none;
+}
+.twss-custom-fields-list-17 {
+  transition-duration: 0s;
+}
+.twss-custom-fields-list-12,
+.twss-custom-fields-list-15,
+.twss-custom-fields-list-16,
+.twss-custom-fields-list-24,
+.twss-custom-fields-list-25 {
+  text-align: left;
+}
+.twss-custom-fields-list-label-01,
+.twss-custom-fields-list-label-03,
+.twss-custom-fields-list-label-30,
+.twss-custom-fields-list-label-31-preview {
+  color: rgb(0, 148, 79);
+  display: inline-block;
+}
+.twss-custom-fields-list-content-01,
+.twss-custom-fields-list-content-03,
+.twss-custom-fields-list-content-30,
+.twss-custom-fields-list-content-31-preview {
+  color: rgb(0, 0, 0);
+  font-weight: 100;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.twss_6310_team_style_01:hover .twss-custom-fields-list-label-01,
+.twss_6310_team_style_03:hover .twss-custom-fields-list-label-03,
+.twss_6310_team_style_08:hover .twss-custom-fields-list-label-08,
+.twss_6310_team_style_10:hover .twss-custom-fields-list-label-10,
+.twss_6310_team_style_13:hover .twss-custom-fields-list-label-13,
+.twss_6310_team_style_14:hover .twss-custom-fields-list-label-14,
+.twss_6310_team_style_16:hover .twss-custom-fields-list-label-16,
+.twss_6310_team_style_19:hover .twss-custom-fields-list-label-19,
+.twss_6310_team_style_20:hover .twss-custom-fields-list-content-20,
+.twss_6310_team_style_22:hover .twss-custom-fields-list-label-22,
+.twss_6310_team_style_31_preview:hover .twss-custom-fields-list-label-31-preview {
+  color: rgb(0, 0, 0);
+}
+.twss_6310_team_style_01:hover .twss-custom-fields-list-content-01,
+.twss_6310_team_style_03:hover .twss-custom-fields-list-content-03,
+.twss_6310_team_style_10:hover .twss-custom-fields-list-content-10,
+.twss_6310_team_style_13:hover .twss-custom-fields-list-content-13,
+.twss_6310_team_style_14:hover .twss-custom-fields-list-content-14,
+.twss_6310_team_style_16:hover .twss-custom-fields-list-content-16,
+.twss_6310_team_style_19:hover .twss-custom-fields-list-content-19,
+.twss_6310_team_style_31_preview:hover .twss-custom-fields-list-content-31-preview {
+  color: rgb(0, 148, 79);
+}
+.twss-custom-fields-02,
+.twss-custom-fields-05,
+.twss-custom-fields-06,
+.twss-custom-fields-08,
+.twss-custom-fields-11,
+.twss-custom-fields-12,
+.twss-custom-fields-15,
+.twss-custom-fields-28,
+.twss-custom-fields-29 {
+  color: rgb(255, 255, 255);
+}
+.twss-custom-fields-list-label-02,
+.twss-custom-fields-list-content-02,
+.twss-custom-fields-list-label-05,
+.twss-custom-fields-list-content-05,
+.twss-custom-fields-list-label-06,
+.twss-custom-fields-list-content-06,
+.twss-custom-fields-list-label-08,
+.twss-custom-fields-list-content-08,
+.twss-custom-fields-list-label-09,
+.twss-custom-fields-list-content-09,
+.twss-custom-fields-list-label-10,
+.twss-custom-fields-list-content-10,
+.twss-custom-fields-list-label-11,
+.twss-custom-fields-list-content-11,
+.twss-custom-fields-list-label-12,
+.twss-custom-fields-list-content-12,
+.twss-custom-fields-list-label-13,
+.twss-custom-fields-list-content-13,
+.twss-custom-fields-list-label-14,
+.twss-custom-fields-list-content-14,
+.twss-custom-fields-list-label-15,
+.twss-custom-fields-list-content-15,
+.twss-custom-fields-list-label-16,
+.twss-custom-fields-list-content-16,
+.twss-custom-fields-list-label-17,
+.twss-custom-fields-list-content-17,
+.twss-custom-fields-list-label-18,
+.twss-custom-fields-list-content-18,
+.twss-custom-fields-list-label-19,
+.twss-custom-fields-list-content-19,
+.twss-custom-fields-list-label-20,
+.twss-custom-fields-list-content-20,
+.twss-custom-fields-list-label-21,
+.twss-custom-fields-list-content-21,
+.twss-custom-fields-list-label-22,
+.twss-custom-fields-list-content-22,
+.twss-custom-fields-list-label-24,
+.twss-custom-fields-list-content-24,
+.twss-custom-fields-list-label-25,
+.twss-custom-fields-list-content-25,
+.twss-custom-fields-list-label-28,
+.twss-custom-fields-list-content-28,
+.twss-custom-fields-list-label-29,
+.twss-custom-fields-list-content-29,
+.twss-custom-fields-list-label-30,
+.twss-custom-fields-list-content-30,
+.twss-custom-fields-list-label-31-preview,
+.twss-custom-fields-list-content-31-preview {
+  display: inline-block;
+}
+.twss-custom-fields-list-content-08{
+   color: #000;
+}
+.twss-custom-fields-list-label-08,
+.twss_6310_team_style_08:hover .twss-custom-fields-list-content-08,
+.twss_6310_team_style_20:hover .twss-custom-fields-list-label-20,
+.twss_6310_team_style_30:hover .twss-custom-fields-list-label-30 {
+  color: rgba(244, 54, 98, 1);
+}
+.twss_6310_team_style_09:hover .twss-custom-fields-list-label-09,
+.twss_6310_team_style_18:hover .twss-custom-fields-list-label-18,
+.twss_6310_team_style_21:hover .twss-custom-fields-list-label-21,
+.twss_6310_team_style_29:hover .twss-custom-fields-list-label-29 {
+  color: rgb(236, 230, 149);
+}
+.twss-custom-fields-list-label-09,
+.twss_6310_team_style_09:hover .twss-custom-fields-list-content-09 {
+  color: rgb(200, 200, 200);
+}
+.twss_6310_team_style_18:hover .twss-custom-fields-list-content-18,
+.twss_6310_team_style_29:hover .twss-custom-fields-list-content-29 {
+  color: whitesmoke;
+}
+
+/* Description field */
+.twss_6310_team_style_01_description,
+.twss_6310_team_style_02_description,
+.twss_6310_team_style_05_description,
+.twss_6310_team_style_06_description,
+.twss_6310_team_style_11_description,
+.twss_6310_team_style_12_description,
+.twss_6310_team_style_13_description,
+.twss_6310_team_style_14_description,
+.twss_6310_team_style_17_description,
+.twss_6310_team_style_18_description,
+.twss_6310_team_style_19_description,
+.twss_6310_team_style_20_description,
+.twss_6310_team_style_21_description,
+.twss_6310_team_style_22_description,
+.twss_6310_team_style_25_description,
+.twss_6310_team_style_28_description,
+.twss_6310_team_style_29_description,
+.twss_6310_team_style_30_description,
+.twss_6310_team_style_31_description_preview {
+  float: left;
+  width: 100%;
+  display: block;
+  font-size: 14px !important;
+  line-height: 18px;
+  color: rgb(0, 0, 0);
+  font-family: 'Amaranth';
+  font-weight: 100;
+  text-transform: capitalize;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 15px;
+}
+.twss_6310_team_style_13_description,
+.twss_6310_team_style_18_description,
+.twss_6310_team_style_19_description,
+.twss_6310_team_style_21_description,
+.twss_6310_team_style_28_description,
+.twss_6310_team_style_29_description,
+.twss_6310_team_style_30_description {
+   padding: 0 10px !important;
+   width: calc(100% - 20px)
+}
+.twss_6310_team_style_12_description,
+.twss_6310_team_style_25_description {
+  margin-bottom: 10px;
+  text-align: left;
+}
+.twss_6310_team_style_25_description {
+  margin-bottom: 0;
+}
+.twss_6310_team_style_02_description,
+.twss_6310_team_style_05_description,
+.twss_6310_team_style_06_description,
+.twss_6310_team_style_11_description,
+.twss_6310_team_style_12_description,
+.twss_6310_team_style_21_description,
+.twss_6310_team_style_28_description {
+  color: rgb(216, 216, 216);
+}
+.twss_6310_team_style_01:hover .twss_6310_team_style_01_description,
+.twss_6310_team_style_03:hover .twss_6310_team_style_03_description,
+.twss_6310_team_style_10:hover .twss_6310_team_style_10_description,
+.twss_6310_team_style_13:hover .twss_6310_team_style_13_description,
+.twss_6310_team_style_14:hover .twss_6310_team_style_14_description,
+.twss_6310_team_style_16:hover .twss_6310_team_style_16_description,
+.twss_6310_team_style_19:hover .twss_6310_team_style_19_description,
+.twss_6310_team_style_22:hover .twss_6310_team_style_22_description,
+.twss_6310_team_style_31_preview:hover .twss_6310_team_style_31_description_preview {
+  color: indianred;
+}
+.twss_6310_team_style_08:hover .twss_6310_team_style_08_description {
+  color: rgb(0, 0, 0);
+}
+.twss_6310_team_style_09:hover .twss_6310_team_style_09_description {
+  color: rgb(236, 230, 149);
+}
+.twss_6310_team_style_18:hover .twss_6310_team_style_18_description,
+.twss_6310_team_style_21:hover .twss_6310_team_style_21_description,
+.twss_6310_team_style_28:hover .twss_6310_team_style_28_description,
+.twss_6310_team_style_29:hover .twss_6310_team_style_29_description {
+  color: white;
+  transition-duration: 0.3s !important;
+}
+.twss_6310_team_style_20:hover .twss_6310_team_style_20_description,
+.twss_6310_team_style_30:hover .twss_6310_team_style_30_description {
+  color: #8b1d8d;
+}
